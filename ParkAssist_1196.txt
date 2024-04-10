@@ -1,0 +1,1 @@
+ [TASK-1196] Implement control logic to maneuver the vehicle into a parallel parking spot safely and accurately.  
