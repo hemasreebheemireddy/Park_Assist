@@ -1,0 +1,1 @@
+The purpose of the Requirements Elicitation Process is to gather,process, and track evolving stakeholder needs and requirementsthroughout the lifecycle of the product and/or service so as to establish arequirements baseline that serves as the basis for defining the neededwork products
